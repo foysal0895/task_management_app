@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1049276875265",
+    "firebase_url": "https://thebasic-bff08-default-rtdb.firebaseio.com",
+    "project_id": "thebasic-bff08",
+    "storage_bucket": "thebasic-bff08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049276875265:android:d8cac5ccadd4c0db3db600",
+        "android_client_info": {
+          "package_name": "com.example.ecom_craftybey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYh6CY0rHzSYhhUgcrH5XVt_txjXvnor4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049276875265:android:de2ec8376279050a3db600",
+        "android_client_info": {
+          "package_name": "com.example.livescoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYh6CY0rHzSYhhUgcrH5XVt_txjXvnor4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049276875265:android:a0a1f2205b7ad1d93db600",
+        "android_client_info": {
+          "package_name": "com.example.taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYh6CY0rHzSYhhUgcrH5XVt_txjXvnor4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
